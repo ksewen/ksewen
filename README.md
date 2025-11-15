@@ -6,7 +6,7 @@ I am a passionate backend developer with an uncommon but very valuable career pa
 
 - **Network Engineering → Software Testing → Backend Engineering → Architecture & Platform Development**
 
-This gives me a unique **multi-perspective** and makes me a strong problem solver in enterprise systems.
+→ This gives me a unique **multi-perspective** and makes me a strong problem solver in enterprise systems.
 
 I currently live in Nuremberg, I am available immediately, and I am looking for a long-term full-time position in
 Germany (Backend, Platform, Architecture, DevOps-related development).
