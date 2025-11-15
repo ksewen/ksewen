@@ -8,7 +8,8 @@ I am a passionate backend developer with an uncommon but very valuable career pa
 
 This gives me a unique **multi-perspective** and makes me a strong problem solver in enterprise systems.
 
-I currently live in Nuremberg, I am available immediately, and I am looking for a long-term full-time position in Germany (Backend, Platform, Architecture, DevOps-related development).
+I currently live in Nuremberg, I am available immediately, and I am looking for a long-term full-time position in
+Germany (Backend, Platform, Architecture, DevOps-related development).
 
 ---
 
@@ -20,7 +21,7 @@ I currently live in Nuremberg, I am available immediately, and I am looking for 
 - Internal tools & framework development
 - Containers and CI/CD
 - Quality assurance, clean code, documentation
-- Root-Cause Analysis & incident solving (L2 / L3 Support)
+- Root-Cause Analysis & incident solving (L3 Support)
 - Performance tests and profiling
 - Monitoring and real-time dashboards
 
@@ -29,28 +30,28 @@ I currently live in Nuremberg, I am available immediately, and I am looking for 
 ## 🛠️ Tech Stack
 
 **Backend:**  
-Java, Spring Boot, Spring Cloud, Spring Security, JPA, REST API Design, Microservices
+`Java`,`Spring Boot`,`Spring Cloud`,`Spring Security`,`JPA`,`REST API Design`,`Microservices`
 
 **Databases & Storage:**  
-MySQL, Redis, Elasticsearch, MongoDB
+`MySQL`,`Redis`,`Elasticsearch`,`MongoDB`
 
 **Messaging:**  
-RabbitMQ
+`RabbitMQ`
 
 **DevOps / Cloud / Containers:**  
-Docker, GitHub Actions, Jenkins, AWS
+`Docker`,`GitHub Actions`,`Jenkins`,`AWS`
 
 **Observability:**  
-ELK Stack, Prometheus, Grafana, log analysis, distributed tracing (Apache SkyWalking), Spring Boot Actuator
+`ELK Stack`,`Prometheus`,`Grafana`,`log analysis`,`distributed tracing (Apache SkyWalking)`,`Spring Boot Actuator`
 
 **Testing:**  
-JUnit, Mockito, load/performance tests, JaCoCo
+`JUnit`,`Mockito`,`load/performance tests`,`JaCoCo`
 
 **Operations / SRE:**  
-L3 support, root cause analysis, distributed system operations, resilience, basic networking
+`L3 support`,`root cause analysis`,`distributed system operations`,`resilience, basic networking`
 
 **Tools:**  
-Linux, IntelliJ IDEA, Maven/Gradle, Git
+`Linux, IntelliJ IDEA`,`Maven/Gradle`,`Git`
 
 ---
 
@@ -60,8 +61,12 @@ Linux, IntelliJ IDEA, Maven/Gradle, Git
 
 > “I bring experience, not code.”
 
-All projects in my GitHub are fully self-created.  
-They contain no confidential information from previous employers.
+All content in this repository was created completely by myself. It is based only on common technical ideas and public
+technologies.  
+No confidential information, no trade secrets, and no internal code from my previous employers are included.
+
+**I care a lot about professional ethics and always follow IP rules. Respecting other people’s work and protecting
+confidential information is very important to me.**
 
 ### Main Projects
 

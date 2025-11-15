@@ -20,7 +20,7 @@
 - 内部工具与框架（组件的集成与二次开发）
 - 容器化与 CI/CD 流程
 - 代码质量、工程规范与文档
-- 根因分析与复杂问题处理（L2 / L3 支持）
+- 根因分析与复杂问题处理（L3 支持）
 - 性能测试与系统分析
 - 监控体系与实时可视化（Dashboard）
 
@@ -29,28 +29,28 @@
 ## 🛠️ 技术栈
 
 **后端：**  
-Java、Spring Boot、Spring Cloud、Spring Security、JPA、REST API、Microservices
+`Java`,`Spring Boot`,`Spring Cloud`,`Spring Security`,`JPA`,`REST API Design`,`Microservices`
 
 **数据库：**  
-MySQL、Redis、Elasticsearch、MongoDB
+`MySQL`,`Redis`,`Elasticsearch`,`MongoDB`
 
 **消息队列：**  
 RabbitMQ
 
 **DevOps / 云 / 容器：**  
-Docker、GitHub Actions、Jenkins、AWS
+`Docker`,`GitHub Actions`,`Jenkins`,`AWS`
 
 **可观测性 / 监控：**  
-ELK、Prometheus、Grafana、日志分析、链路追踪（SkyWalking）、Spring Boot Actuator
+`ELK Stack`,`Prometheus`,`Grafana`,`log analysis`,`distributed tracing (Apache SkyWalking)`,`Spring Boot Actuator`
 
 **测试与质量：**  
-JUnit、Mockito、性能/压力测试、JaCoCo
+`JUnit`,`Mockito`,`load/performance tests`,`JaCoCo`
 
 **运维 / SRE：**  
-L3 支持、根因分析、分布式系统运维、系统稳定性、网络基础
+`L3 support`,`root cause analysis`,`distributed system operations`,`resilience, basic networking`
 
 **工具：**  
-Linux、IntelliJ IDEA、Maven/Gradle、Git
+`Linux, IntelliJ IDEA`,`Maven/Gradle`,`Git`
 
 ---
 
@@ -60,8 +60,10 @@ Linux、IntelliJ IDEA、Maven/Gradle、Git
 
 > “我带来的是经验，而不是代码。”
 
-所有项目均由我独立编写，不包含任何前雇主的专有代码或敏感信息。  
-我非常重视职业道德与知识产权。
+本仓库中的所有内容均由我独立完成，完全基于公开的技术概念和常见的方法。  
+不包含任何前雇主的机密信息、商业秘密或内部实现代码。
+
+**我非常重视职业道德，并严格遵守知识产权相关规定。尊重他人的工作成果、保护任何机密信息，是我一直坚持的原则。**
 
 ### 主要项目：
 
