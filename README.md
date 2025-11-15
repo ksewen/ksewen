@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hello, I’m **Ksewen** 👋
 
-<!--
-**ksewen/ksewen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Deutsch](./README_DE.md) | [简体中文](./README_ZH.md)
 
-Here are some ideas to get you started:
+I am a passionate backend developer with an uncommon but very valuable career path:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Network Engineering → Software Testing → Backend Engineering → Architecture & Platform Development**
+
+This gives me a unique **multi-perspective** and makes me a strong problem solver in enterprise systems.
+
+I currently live in Nuremberg, I am available immediately, and I am looking for a long-term full-time position in Germany (Backend, Platform, Architecture, DevOps-related development).
+
+---
+
+## 🚀 What I do
+
+**Design, develop and operate robust and scalable Java backend systems**, including:
+
+- Distributed systems (microservices) and hybrid cloud environments
+- Internal tools & framework development
+- Containers and CI/CD
+- Quality assurance, clean code, documentation
+- Root-Cause Analysis & incident solving (L2 / L3 Support)
+- Performance tests and profiling
+- Monitoring and real-time dashboards
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**  
+Java, Spring Boot, Spring Cloud, Spring Security, JPA, REST API Design, Microservices
+
+**Databases & Storage:**  
+MySQL, Redis, Elasticsearch, MongoDB
+
+**Messaging:**  
+RabbitMQ
+
+**DevOps / Cloud / Containers:**  
+Docker, GitHub Actions, Jenkins, AWS
+
+**Observability:**  
+ELK Stack, Prometheus, Grafana, log analysis, distributed tracing (Apache SkyWalking), Spring Boot Actuator
+
+**Testing:**  
+JUnit, Mockito, load/performance tests, JaCoCo
+
+**Operations / SRE:**  
+L3 support, root cause analysis, distributed system operations, resilience, basic networking
+
+**Tools:**  
+Linux, IntelliJ IDEA, Maven/Gradle, Git
+
+---
+
+## ⭐ Highlight Projects
+
+### 🔒 Ethical & Legal Note
+
+> “I bring experience, not code.”
+
+All projects in my GitHub are fully self-created.  
+They contain no confidential information from previous employers.
+
+### Main Projects
+
+[![yorozuya](https://github-readme-stats.vercel.app/api/pin/?username=ksewen&repo=yorozuya)](https://github.com/ksewen/yorozuya)
+
+[![gateway-bottleneck-lab](https://github-readme-stats.vercel.app/api/pin/?username=ksewen&repo=gateway-bottleneck-lab)](https://github.com/ksewen/gateway-bottleneck-lab)
+
+[![uuid-benchmark](https://github-readme-stats.vercel.app/api/pin/?username=ksewen&repo=uuid-benchmark)](https://github.com/ksewen/uuid-benchmark)
+
+---
+
+## 📈 Why I publish these projects
+
+I use these projects to:
+
+- summarize my experience
+- discuss technical topics
+- show my skills and engineering style clearly
+
+---
+
+## 📫 Contact
+
+- Email: **ksewen77@gmail.com**
+- Based in Nuremberg · open to relocate within Germany
